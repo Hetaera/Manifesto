@@ -12,7 +12,7 @@ Bozza ver. 01.047 – 2020-04-12 &ndash; Scritto con [***Mark Text***](https://m
 
 Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
 
-- Link all'account, che contiene pubblicazioni in relazione a questo manifesto:
+- Link all'account che contiene pubblicazioni in relazione a questo manifesto:
   
   https://mondiaspora.net/people/14281b90538e0138a38a03f7e1ed1bc8
 
@@ -20,26 +20,24 @@ Ci trovate anche **in Diaspora, rete sociale decentralizzata:**
   
   https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653
   
-  Non abbiamo per ora un nostro sito web con base dati, onde proporre una raccolta di firme, una sorta di petizione.  
-  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento un modo per segnalarci la vostra approvazoine.** Se e quando vorrete farlo, potrete scrivere qualche cosa come:  
+  Ancora non abbiamo predisposto un nostro sito web con base dati, dove proporre una raccolta di firme o petizione di sorta.  
+  **Commentare [quella pubblicazione](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653) in Diaspora è al momento il modo di supportare il nostro lavoro e segnalarci la vostra approvazoine.** Se vorrete farlo, ci potrete scrivere qualche cosa come:  
   **"Approvo il manifesto *Nuovo Paradigma 1.0* (bozza ver. nn.nnn)"**.  
-  La versione che vi è piaciuta potrete anche copiarvela ovviamente (così come qualunque altra).  
-  **Se avete una "facciata" nel web, potrete segnalare nella stessa il manifesto.**  
-  Spendere 5 o 10 minuti del vostro tempo per aprire un acount gratuito su Diaspora sarà l'occasione di uscire un po' dalle grinfie di Facebook, con la sua censura e la sua connivenza con *Big Data*.
+  La versione che più vi è piaciuta potrete anche copiarla (e lo stesso dicasi per qualunque altra).  
+  **Se disponete di account, nick o una qualunque "facciata web" potrete segnalare l'esitenza del manifesto tramite la stessa.**  
+  Vi ringrazieremo se spenderete 5-10 minuti del vostro tempo per aprire un account gratuito su Diaspora e sarà anche l'occasione di uscire un po' dalle grinfie di Facebook, con la sua censura e la sua connivenza con *Big Data*.
 
 &nbsp;
 
-Almeno durante un primo periodo, questo sarà un lavoro in evoluzione, anche se vorremo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione (potremmo valutare se effettuare delle *release*).
+Almeno per un primo periodo questo manifesto é da cosiderare come un lavoro in evoluzione, anche se vorremmo marcare il raggiungimento di certe tappe di sviluppo del pensiero e dell'azione entro breve tempo (potremmo valutare se effettuare delle *release*).
 
 **SE AVETE DELLE IDEE CON CUI CONTRIBUIRE, FATEVI AVANTI.**
 
-Abbiamo per ora una sola regola: **niente aggressioni**, **niente stroncature di nessun apporto**. Solo così la creatività di tutti potrà dare i frutti migliori.
+Abbiamo, per ora, una sola chiara regola: **niente aggressioni**, **niente stroncature o commenti di nessun apporto**, affinché la creatività di tutti potrà portare ai frutti migliori.
 
-Saranno benvenuti **giuristi**, **costituzionalisti**, **economisti**, **filosofi**, **scienziati**, **informatici**, **matematici**, **giornalisti**, ***bloggers*** e **pensatori e intellettuali in genere**.
+Saranno benvenuti particolarmente categorie di **giuristi**, **costituzionalisti**, **economisti**, **filosofi**, **scienziati**, **informatici**, **matematici**, **giornalisti**, ***bloggers*** e **pensatori e intellettuali**, così come **traduttori** e **artisti** in genere.
 
-Saranno anche benvenuti **traduttori** e **artisti**.
-
-Potremmo valutare l'aggiunta di note in calce con *ulteriori* riferimenti in merito a vari argomenti toccati da questo documento. Non l'abbiamo per ora considerato prioritario con rispetto all'avere una prima stesura e a lavorare per diffonderla senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare niente, **stiamo *constatando*, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
+Valuteremo l'aggiunta di note in calce con *ulteriori* riferimenti ed approfondimenti in merito ai vari argomenti toccati in questo manifesto. Non l'abbiamo ancora elaborato in rapporto all'esigenza prioritaria di pubblicare una prima stesura, nonché lavorare per diffonderla senza ulteriori indugi. In quest'ambito non pretendiamo di dimostrare nulla, **stiamo *constatando*, preoccupati, e proponendo una bandiera fatta di ideali in cui crediamo**.
 
 &nbsp;
 
@@ -51,11 +49,11 @@ Potete suggerire cambiamenti in vari modi:
 
 + chi fosse invece più familiare con GitHub, può spingersi ad utilizzare il flusso di lavoro tipico in GitHub per modifiche sostanziali, che sfocia tipicamente in una ***pull request***, ma non è essenziale e non lo esigiamo in nessun modo, gli *issues* vanno benissimo
 
-+ al limite, va bene anche **una semplice segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione (potrete comunque usare *GPG* per segnalarci punti deboli del manifesto)
++ al limite, va bene anche **una semplice segnalazione via mail** (in effetti, misura *anti-spam*, l'indirizzo è accessibile in *GitHub* solo *dopo* aver effettuato il login), sapendo che inviare mail espone a *metadata recollection*, ma *noi* stiamo comunque dalla parte della legalità e della Costituzione. Potrete comunque usare *GPG* per segnalarci punti deboli del manifesto
 
 + potete scrivere **un commento alla** [**presentazione in Diaspora**](https://mondiaspora.net/posts/ab05452057880138212d0e36a79e7653)
 
-**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etcl, NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
+**(*)** Chi ha scritto fino ad ora il manifesto l'ha fatto sottraendo già molte ore ad altri compiti, alcuni svolti, similmente, *ad honorem*, ma non meno importanti, altri invece parte di obblighi di lavoro etc..;NON VORREMMO SOTTRARRE TEMPO AD ULTERIORI SVILUPPI &ndash; TRADUZIONE, DIFFUSIONE, ETC. &ndash; PER RIFARE TUTTO IL FORMATO dopo che qualcuno l'ha PERSO facendosi un copia&incolla dalla pagina nel browser.
 
 **GRAZIE**
 
